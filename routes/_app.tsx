@@ -8,7 +8,7 @@ export default function App({ Component }: PageProps) {
         <title>fresh-project</title>
         <link rel="stylesheet" href="/styles.css" />
       </head>
-      <body className='bg-black/60'>
+      <body className='bg-black/40'>
         <Component />
       </body>
     </html>
